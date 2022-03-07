@@ -1,4 +1,4 @@
-# awesome-evolutionary-reinforcement-learning
+# Awesome Evolutionary Reinforcement Learning
 A curated list of resources dedicated to evolutionary reinforcement learning.
 
 ## Papers
