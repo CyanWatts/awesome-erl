@@ -1,6 +1,9 @@
 # Awesome Evolutionary Reinforcement Learning  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of resources dedicated to evolutionary reinforcement learning.
 
+## Contributing
+Please feel free to [pull requests](https://github.com/CyanWatts/awesome-erl/pulls)
+
 ## Papers
 - Khadka S, Tumer K. Evolution-guided policy gradient in reinforcement learning[J]. Advances in Neural Information Processing Systems, 2018, 31.[[Paper]](https://proceedings.neurips.cc/paper/2018/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf)
 - Gangwani T, Peng J. Policy optimization by genetic distillation[J]. arXiv preprint arXiv:1711.01012, 2017.[[Paper]](https://arxiv.org/pdf/1711.01012.pdf)
