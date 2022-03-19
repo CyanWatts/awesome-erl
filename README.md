@@ -13,6 +13,7 @@ Please feel free to [pull requests](https://github.com/CyanWatts/awesome-erl/pul
 - Marchesini E, Corsi D, Farinelli A. Genetic soft updates for policy evolution in deep reinforcement learning[C]//International Conference on Learning Representations. 2020.[[Paper]](https://openreview.net/pdf?id=TGFO0DbD_pk)
 - Suri K, Shi X Q, Plataniotis K N, et al. Maximum mutation reinforcement learning for scalable control[J]. arXiv preprint arXiv:2007.13690, 2020.[[Paper]](https://arxiv.org/pdf/2007.13690.pdf)
 - Lee K, Lee B U, Shin U, et al. An efficient asynchronous method for integrating evolutionary and gradient-based policy search[J]. Advances in Neural Information Processing Systems, 2020, 33: 10124-10135.[[Paper]](https://proceedings.neurips.cc/paper/2020/file/731309c4bb223491a9f67eac5214fb2e-Paper.pdf)
+- Pretorius K W, Pillay N. Population based Reinforcement Learning[C]//2021 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2021: 1-8.[[Paper]](https://ieeexplore.ieee.org/abstract/document/9660084)
 - Liu J, Feng L. Diversity Evolutionary Policy Deep Reinforcement Learning[J]. Computational Intelligence and Neuroscience, 2021, 2021.[[Paper]](https://downloads.hindawi.com/journals/cin/2021/5300189.pdf)
 - Kim N, Baek H, Shin H. PGPS: Coupling Policy Gradient with Population-based Search[J]. 2020.[[Paper]](https://openreview.net/pdf?id=PeT5p3ocagr)
 - Ma Y, Liu T, Wei B, et al. Evolutionary Action Selection for Gradient-based Policy Learning[J]. arXiv preprint arXiv:2201.04286, 2022.[[Paper]](https://arxiv.org/pdf/2201.04286.pdf)
