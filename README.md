@@ -13,6 +13,7 @@ Please feel free to [pull requests](https://github.com/CyanWatts/awesome-erl/pul
 - Pourchot A, Sigaud O. CEM-RL: Combining evolutionary and gradient-based methods for policy search[J]. arXiv preprint arXiv:1810.01222, 2018.[[Paper]](https://arxiv.org/pdf/1810.01222.pdf?ref=https://githubhelp.com)
 - Colas C, Sigaud O, Oudeyer P Y. Gep-pg: Decoupling exploration and exploitation in deep reinforcement learning algorithms[C]//International conference on machine learning. PMLR, 2018: 1039-1048.[[Paper]](http://proceedings.mlr.press/v80/colas18a/colas18a.pdf)
 - Chang S, Yang J, Choi J, et al. Genetic-gated networks for deep reinforcement learning[J]. Advances in neural information processing systems, 2018, 31.[[Paper]](https://proceedings.neurips.cc/paper/2018/file/d516b13671a4179d9b7b458a6ebdeb92-Paper.pdf)
+- Kalashnikov D, Irpan A, Pastor P, et al. Scalable deep reinforcement learning for vision-based robotic manipulation[C]//Conference on Robot Learning. PMLR, 2018: 651-673.[[Paper]](http://proceedings.mlr.press/v87/kalashnikov18a/kalashnikov18a.pdf)
 ### 2019
 - Khadka S, Majumdar S, Nassar T, et al. Collaborative evolutionary reinforcement learning[C]//International conference on machine learning. PMLR, 2019: 3341-3350.[[Paper]](http://proceedings.mlr.press/v97/khadka19a/khadka19a.pdf)
 ### 2020
