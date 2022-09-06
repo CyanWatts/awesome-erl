@@ -33,3 +33,4 @@ Please feel free to [pull requests](https://github.com/CyanWatts/awesome-erl/pul
 - Wang Y, Zhang T, Chang Y, et al. A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning[J]. arXiv preprint arXiv:2201.00129, 2022.[[Paper]](https://arxiv.org/pdf/2201.00129.pdf)
 - Sigaud O. Combining Evolution and Deep Reinforcement Learning for Policy Search: a Survey[J]. arXiv preprint arXiv:2203.14009, 2022.[[Paper]](https://arxiv.org/pdf/2203.14009.pdf)
 - Shao L, You Y, Yan M, et al. Grac: Self-guided and self-regularized actor-critic[C]//Conference on Robot Learning. PMLR, 2022: 267-276.[[Paper]](https://proceedings.mlr.press/v164/shao22a/shao22a.pdf)
+- Pierrot T, Macé V, Chalumeau F, et al. Diversity Policy Gradient for Sample Efficient Quality-Diversity Optimization[C]//ICLR Workshop on Agent Learning in Open-Endedness. 2022.[[Paper]](https://openreview.net/pdf?id=SSrqEQDbIZq)
