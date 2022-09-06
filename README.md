@@ -25,6 +25,7 @@ Please feel free to [pull requests](https://github.com/CyanWatts/awesome-erl/pul
 - Pretorius K W, Pillay N. Population based Reinforcement Learning[C]//2021 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2021: 1-8.[[Paper]](https://ieeexplore.ieee.org/abstract/document/9660084)
 - Liu J, Feng L. Diversity Evolutionary Policy Deep Reinforcement Learning[J]. Computational Intelligence and Neuroscience, 2021, 2021.[[Paper]](https://downloads.hindawi.com/journals/cin/2021/5300189.pdf)
 - Lü S, Han S, Zhou W, et al. Recruitment-imitation mechanism for evolutionary reinforcement learning[J]. Information Sciences, 2021, 553: 172-188.[[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025520311828)
+- Majid A Y, Saaybi S, van Rietbergen T, et al. Deep reinforcement learning versus evolution strategies: A comparative survey[J]. arXiv preprint arXiv:2110.01411, 2021.[[Paper]](https://arxiv.org/pdf/2110.01411.pdf)
 ### 2022
 - Ma Y, Liu T, Wei B, et al. Evolutionary Action Selection for Gradient-based Policy Learning[J]. arXiv preprint arXiv:2201.04286, 2022.[[Paper]](https://arxiv.org/pdf/2201.04286.pdf)
 - Wang Y, Zhang T, Chang Y, et al. A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning[J]. arXiv preprint arXiv:2201.00129, 2022.[[Paper]](https://arxiv.org/pdf/2201.00129.pdf)
