@@ -7,6 +7,8 @@ Please feel free to [pull requests](https://github.com/CyanWatts/awesome-erl/pul
 ## Papers
 ### 2017
 - Gangwani T, Peng J. Policy optimization by genetic distillation[J]. arXiv preprint arXiv:1711.01012, 2017.[[Paper]](https://arxiv.org/pdf/1711.01012.pdf)
+- Colas C, Sigaud O, Oudeyer P Y. Gep-pg: Decoupling exploration and exploitation in deep reinforcement learning algorithms[C]//International conference on machine learning. PMLR, 2018: 1039-1048.
+
 ### 2018
 - Khadka S, Tumer K. Evolution-guided policy gradient in reinforcement learning[J]. Advances in Neural Information Processing Systems, 2018, 31.[[Paper]](https://proceedings.neurips.cc/paper/2018/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf)
 - Pourchot A, Sigaud O. CEM-RL: Combining evolutionary and gradient-based methods for policy search[J]. arXiv preprint arXiv:1810.01222, 2018.[[Paper]](https://arxiv.org/pdf/1810.01222.pdf?ref=https://githubhelp.com)
